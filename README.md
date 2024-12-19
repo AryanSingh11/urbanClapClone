@@ -1,14 +1,11 @@
 # UrbanClapClone
 
-<b>Course</b>: CEN5035 - Software Engineering <br>
-<b>Institute</b>: Unviersity of Florida <br>
-<b>Semester</b>: Spring 2022 <br>
-<b>Instructor</b>: Dr. Alin Dobra <br>
-<b>Team</b>: 
-* Prateek Kumar Goel ([Github](https://github.com/pkgprateek)) - Both
-* Rishabh Jaiswal ([Github](https://github.com/rsj-rishabh)) - Both
-* Raghunandhan Vaidy ([Github](https://github.com/Skillic-Kaiser)) - Both
-* Madhuri Uppu ([Github](https://github.com/MadhuriUppu)) - Both
+<b>Course</b>: MAJOR PROJECT <br>
+<b>Institute</b>: Unviersity Institute of technology, RGPV <br>
+<b>Semester</b>: SEVENTH <br>
+
+<b>CREATOR</b>: 
+* ARYAN SINGH - 0101CS211032
 
 ## Project Description:
 The <strong>“UrbanClapPro"</strong> web application aims to aggregate utility services such as beauty, electrical mainatainance, home cleaning, pest control etc. The application would enable the end-user to select their preferred service, book an appointment at a convenient time, pay the resultant charge and give feedback. The primary criterion of the web application would facility easy calenter and time slot booking to book the services according to your time and availability. The application aims to be a one stop shop that caters to all the utility needs for the end user. Out product promises easy bookign and cancellation without extra changes and you can maintain your booked services at one places easily. 
