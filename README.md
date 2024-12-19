@@ -1,4 +1,4 @@
-# UrbanClapClone
+# # MAJOR PROJECT - BLUE COLLAR FREELANCE PLATFORM
 
 <b>Course</b>: MAJOR PROJECT <br>
 <b>Institute</b>: Unviersity Institute of technology, RGPV <br>
